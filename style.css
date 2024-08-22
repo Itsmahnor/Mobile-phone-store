@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing:border-box;
+font-family: "Urbanist",sans-serif;
+
+}
+.common-heading{
+    font-size:2.8rem;
+    font-weight:500;
+    letter-spacing: 0.01rem!important;
+}
+.common-title{
+    margin-bottom: 4.2rem;
+}
+h1{
+    font-size: 3.5rem;
+}
+
+.hero-video--section{
+   
+    width:40%;
+    border-radius: 2rem;
+}
+nav{
+    background-color: rgb(39, 36, 36);
+}
+.nav-link {
+    color:white;
+}
+.hero-section .container{
+    display: grid;
+    place-content: center;
+    height: inherit;
+
+}
+.text-light-grey{
+    color: gray;
+}
+.bg-main{
+    height: 80vh;
+    position: relative;
+  
+}
+.bg-color{
+     background-color: rgb(39, 36, 36);
+}
+  
+button,a{
+    font-size: 1.15rem!important;
+    letter-spacing: 0.03rem;
+    word-spacing: .1rem;
+}
+.custom-shape-divider-bottom-1722844986 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1722844986 svg {
+    position: relative;
+    display: block;
+    width: calc(121% + 1.3px);
+    height: 214px;
+}
+
+.custom-shape-divider-bottom-1722844986 .shape-fill {
+    fill: #FFFFFF;
+}
+/* services */
+.service-section{
+    padding: 6rem 0 3rem 0 !important;
+}
+.icon-span {
+    width:2.5rem;
+    height:2.5rem;
+    background-color: blue;;
+    color:white;
+    height: 2rem;
+    line-height: 2rem;
+}
+.card-box:hover{
+    box-shadow: rgba(149,157,165,0.2) 0 8px 24px;
+}
+.more-info-section {
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(22,22,22,0.9),rgba(22,22,22,0.9)),url("https://e0.pxfuel.com/wallpapers/128/568/desktop-wallpaper-technology-background-white-technology.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 6rem 0;
+    overflow: hidden;
+
+}
+.text-s{
+    color:white;
+    position: relative;
+}
+.custom-shape-divider-top-1722856700 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1722856700 svg {
+    position: relative;
+    display: block;
+    width: calc(119% + 1.3px);
+    height: 84px;
+}
+
+.custom-shape-divider-top-1722856700 .shape-fill {
+    fill: #FFFFFF;
+}
